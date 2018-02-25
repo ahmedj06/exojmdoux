@@ -29,11 +29,11 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package fr.ahmedj;
+package fr.ahmedj.collections;
 
 import org.openjdk.jmh.annotations.Benchmark;
 
-public class MyBenchmark {
+public class Map {
 
     @Benchmark
     public void testMethod() {
